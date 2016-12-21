@@ -1,0 +1,1 @@
+Welcome <strong><?php echo $this->session->userdata('email') ?></strong>

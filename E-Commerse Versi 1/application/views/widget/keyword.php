@@ -1,0 +1,1 @@
+elektronik koperasi <?php echo date('Y')?>
